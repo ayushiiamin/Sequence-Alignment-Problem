@@ -21,7 +21,8 @@
 | 3968 | 2304.8110008 | 3666.4571762 | 54384 | 12608 |
 
 ## Memory vs Problem Size (M+N)
-<img width="628" alt="image" src="https://github.com/ayushiiamin/Sequence-Alignment-Problem/assets/77382840/c09c6f68-6629-4723-b292-60cb587a6942">\
+<img width="628" alt="image" src="https://github.com/ayushiiamin/Sequence-Alignment-Problem/assets/77382840/c09c6f68-6629-4723-b292-60cb587a6942">
+<br>
 - Basic: Polynomial O(m*n)
 - Efficient: Linear O(min(m,n))
 
