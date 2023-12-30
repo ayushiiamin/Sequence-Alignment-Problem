@@ -1,7 +1,9 @@
 # Sequence-Alignment-Problem
 
+## Results
+
 | M+N    | Time in MS (Basic) | Time in MS (Efficient) | Memory in KB (Basic) | Memory in KB (Efficient) |
-| -------- | ------- |
+| -------- | ------- | ------- | ------- | ------- |
 | 16 | 0.0567436 | 0.1542568 | 12016 | 12176 |
 | 64 | 0.6198883 | 1.2979507 | 12080 | 12192 |
 | 128 | 2.2640228 | 4.4877529 | 12192 | 12192 |
