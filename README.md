@@ -19,3 +19,18 @@
 | 3072 | 1396.4669704 | 2142.9791450 | 41408 | 12512 |
 | 3584 | 1870.6498146 | 2952.8899192 | 45696 | 12576 |
 | 3968 | 2304.8110008 | 3666.4571762 | 54384 | 12608 |
+
+## Memory vs Problem Size (M+N)
+<img width="628" alt="image" src="https://github.com/ayushiiamin/Sequence-Alignment-Problem/assets/77382840/c09c6f68-6629-4723-b292-60cb587a6942">
+- Basic: Polynomial O(m*n)
+- Efficient: Linear O(min(m,n))
+
+## Time vs Problem Size (M+N)
+<img width="628" alt="image" src="https://github.com/ayushiiamin/Sequence-Alignment-Problem/assets/77382840/c452686b-b1a7-4b4b-93c0-fd5341bb722c">
+- Basic: Polynomial O(m*n)
+- Efficient: Polynomial O(m*n)
+
+### Contributers:
+- Ayushi Amin <i>(ayushima@usc.edu)</i>
+- Ankita Samanta <i>(ankitasa@usc.edu)</i>
+- Aditya Srivastava <i>(adityasr@usc.edu)</i>
